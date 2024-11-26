@@ -1,0 +1,20 @@
+student_id,firstn,lastn,dob,address,city,phone,balance_id,cert_id,med_id,atten_id,contact_id,course_id,enrollment_id
+1,John,Doe,2000-01-15,123 Main St,London,7656578765,1,1,1,1,1,1,1
+2,Jane,Smith,1999-05-22,456 Elm St,London,7559876543,2,2,2,2,2,2,2
+3,Alice,Johnson,2001-07-30,789 Oak St,Manchester,7554567890,3,3,3,3,3,,3
+4,Bob,Brown,2002-11-11,321 Pine St,Manchester,7556543210,4,4,4,4,4,4,4
+5,Charlie,Davis,2003-03-25,654 Maple St,OSAKA,7557890123,5,5,5,5,5,5,5
+6,Adam,Evans,2000-06-10,987 Cedar St,Barcalona,7553216540,6,6,6,6,6,6,6
+8,Fiona,Garcia,2001-09-05,654 Willow St,Cardiff,7557896543,8,8,8,8,8,8,8
+9,George,Harris,2002-04-15,987 Pine St,OSAKA,7553217890,9,9,9,9,9,,9
+10,Hannah,Ivy,2003-08-25,321 Oak St,New York,7559873210,10,10,10,10,10,10,10
+11,Liam,Walker,2000-01-01,123 Main St,Jersey,1234567890,11,8,11,11,11,8,11
+12,Olivia,Martinez,2001-02-02,456 Elm St,Miami,2345678901,12,4,12,12,12,4,12
+13,Noah,Garcia,2002-03-03,789 Oak St,LA,3456789012,13,8,13,13,13,8,13
+14,Emma,Rodriguez,2003-04-04,101 Pine St,London,4567890123,14,10,14,14,14,10,14
+15,Ava,Lee,2004-05-05,202 Maple St,Porto,5678901234,15,2,15,15,15,2,15
+16,William,Harris,2005-06-06,303 Birch St,Munich,6789012345,16,10,16,16,16,10,16
+17,Sophia,Clark,2006-07-07,404 Cedar St,Lisbon,7890123456,17,7,17,17,17,,17
+18,James,Lewis,2007-08-08,505 Walnut St,Rio,8901234567,18,2,18,18,18,2,18
+19,Isabella,Young,2008-09-09,606 Chestnut St,Oslow,9012345678,19,10,19,19,19,10,19
+20,Benjamin,King,2009-10-10,707 Spruce St,Rome,1234567890,20,6,20,20,20,6,20
